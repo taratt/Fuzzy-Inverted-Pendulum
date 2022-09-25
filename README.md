@@ -83,5 +83,13 @@ The *FuzzyController* class in **controller.py** module, loads an *FCL* file to 
 
 We have created a simple controller that works just fine and can be found in **controllers** directory. You can also checkout the fuzzy variables chart, available in the **images** directory.
 
+
+## Simulation Results
+The simulation results using the fuzzy controller can be viewed in the video below.
+
+
+https://user-images.githubusercontent.com/51206120/192159414-16c5213a-02a0-4a67-aefe-c5deb7fa9792.MP4
+
+
 ## Contribution
 The graphics and the general parts of this project was implemented by <a href="https://github.com/shayanthrn">Shayan Tehrani</a> and all the fuzzy expert system related parts were implemented by <a href="https://github.com/taratt">me</a>).
