@@ -79,6 +79,9 @@ The *FuzzyController* class in **controller.py** module, loads an *FCL* file to 
 	[world]
 	theta = -90.0
 
-### Simple FCL Controller
+### FCL Controller
 
 We have created a simple controller that works just fine and can be found in **controllers** directory. You can also checkout the fuzzy variables chart, available in the **images** directory.
+
+## Contribution
+The graphics and the general parts of this project was implemented by <a href="https://github.com/shayanthrn">Shayan Tehrani</a> and all the fuzzy expert system related parts were implemented by <a href="https://github.com/taratt">me</a>).
